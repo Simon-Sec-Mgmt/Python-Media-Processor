@@ -2,7 +2,9 @@
 
 Une application de bureau moderne pour télécharger et convertir des flux multimédias (YouTube) en formats audio (MP3, WAV) ou vidéo (MP4). Développée avec une interface graphique sombre (Dark Mode).
 
-![Aperçu de l'application] (Youtube-Converter.png)
+<p align="center">
+  <img src="Youtube-Converter.png" alt="Aperçu de l'application" width="700">
+</p>
 
 ## 📋 Prérequis Système
 Avant de lancer l'application, assurez-vous d'avoir :
