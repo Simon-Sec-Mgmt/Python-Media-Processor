@@ -3,7 +3,7 @@
 Une application de bureau moderne pour télécharger et convertir des flux multimédias (YouTube) en formats audio (MP3, WAV) ou vidéo (MP4). Développée avec une interface graphique sombre (Dark Mode).
 
 <p align="center">
-  <img src="XEKYEL_Labs" alt="Aperçu de l'application" width="700">
+  <img src="XEKYEL_Labs.png" alt="Aperçu de l'application" width="700">
 </p>
 
 ## 📋 Prérequis Système
